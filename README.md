@@ -90,3 +90,8 @@ Sebagai seorang data analyst, saya akan mencoba menjawab pertanyaan:
           - Penempatan Strategis: Tempatkan vending machine di halte-halte dengan jumlah tap in dan tap out yang tinggi seperti BKN, Penjaringan, dan Terminal Senen.
           - Produk yang Ditawarkan: Sediakan produk yang sering dibutuhkan oleh penumpang seperti minuman, makanan ringan, masker, dan hand sanitizer.
           - Pemeliharaan Rutin: Pastikan vending machine selalu dalam kondisi baik dan produk yang dijual selalu tersedia melalui pemeliharaan rutin.
+
+Dengan menerapkan rekomendasi-rekomendasi ini, diharapkan Transjakarta dapat mengoptimalkan layanannya dan memenuhi kebutuhan pengguna dengan lebih baik, yang kedepannya akan mendukung efektivitas, efisiensi, dan profit operasional Transjakarta sebagai transportasi publik.
+
+Link Tableu: https://public.tableau.com/views/TransjakartaDB_17207109858190/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
